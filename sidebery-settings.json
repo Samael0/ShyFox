@@ -282,7 +282,7 @@
         "iconIMG": "",
         "lockedPanel": false,
         "skipOnSwitching": false,
-        "noEmpty": false,
+        "noEmpty": true,
         "newTabCtx": "none",
         "dropTabCtx": "none",
         "moveRules": [],
